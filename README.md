@@ -1,38 +1,38 @@
 # Fitted - AI Fashion & Lifestyle Concierge
 
-**Tagline:** _"Your vibe. Your fit. Your world—styled in real life."_
+  **Tagline:** _"Your vibe. Your fit. Your world—styled in real life."_
 
-StyleGenie is an AI-powered personal stylist and lifestyle concierge that personalizes fashion, gifting, and aesthetics across both digital and physical spaces. From curating your closet to styling you in-store via smart mirrors, StyleGenie makes looking and feeling good effortless, affordable, and fun.
+  StyleGenie is an AI-powered personal stylist and lifestyle concierge that personalizes fashion, gifting, and aesthetics across both digital and physical spaces. From curating your closet to styling you in-store via smart mirrors, StyleGenie makes looking and feeling good effortless, affordable, and fun.
 
----
+  ---
 
-## 🌟 Product Highlights
+  ## 🌟 Product Highlights
 
-### 📱 App Experience
-- **AI Stylist Bundles** based on your vibe (e.g., “Intern Chic,” “Coastal Girl,” “Street Goth”)
-- **Closet Uploading**: Reuse what you own, add pieces that match
-- **Real-Time Local Outfit Picks**: Items from nearby malls, thrift stores, or boutiques
-- **Same-Day Delivery** via mall runners or local partners
-- **Scheduled Gifts/Deliveries** (e.g., “Boba every Friday at 5PM”)
-- **Thrift, Sustainability & Indie Options** built-in
-- **Weekly Drops** & influencer-curated collections
+  ### 📱 App Experience
+  - **AI Stylist Bundles** based on your vibe (e.g., “Intern Chic,” “Coastal Girl,” “Street Goth”)
+  - **Closet Uploading**: Reuse what you own, add pieces that match
+  - **Real-Time Local Outfit Picks**: Items from nearby malls, thrift stores, or boutiques
+  - **Same-Day Delivery** via mall runners or local partners
+  - **Scheduled Gifts/Deliveries** (e.g., “Boba every Friday at 5PM”)
+  - **Thrift, Sustainability & Indie Options** built-in
+  - **Weekly Drops** & influencer-curated collections
 
-### 🪞 Pop-Up Shop Experience
-- **Smart Mirror Assistant** suggests outfits in-store
-- **Guided Lights** direct users to personalized items
-- **QR Closet Syncing**: Match IRL finds to your virtual wardrobe
-- **Create Content** directly for TikTok/Instagram
+  ### 🪞 Pop-Up Shop Experience
+  - **Smart Mirror Assistant** suggests outfits in-store
+  - **Guided Lights** direct users to personalized items
+  - **QR Closet Syncing**: Match IRL finds to your virtual wardrobe
+  - **Create Content** directly for TikTok/Instagram
 
-### 🌐 Future Expansion
-- **Home Decor Bundles**
-- **Makeup Kits**
-- **Travel Wardrobes** for destination-based styling
+  ### 🌐 Future Expansion
+  - **Home Decor Bundles**
+  - **Makeup Kits**
+  - **Travel Wardrobes** for destination-based styling
 
-### 💸 Business Model
-- Freemium App + Subscription for advanced features
-- Affiliate commissions from brand partners
-- Local delivery & IRL try-on fees
-- Sponsored bundles and pop-up collaborations
+  ### 💸 Business Model
+  - Freemium App + Subscription for advanced features
+  - Affiliate commissions from brand partners
+  - Local delivery & IRL try-on fees
+  - Sponsored bundles and pop-up collaborations
 
 ---
 

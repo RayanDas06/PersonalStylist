@@ -6,6 +6,7 @@ import Home from './pages/Home.tsx';
 import StyleSelection from './pages/StyleSelection.tsx';
 import OutfitRecommendations from './pages/OutfitRecommendations.tsx';
 import StoreDirectory from './pages/StoreDirectory.tsx';
+import ChatBot from './pages/Chatbot.tsx'; // Ensure casing matches the file system
 
 const theme = createTheme({
   palette: {
@@ -35,10 +36,11 @@ function App() {
           <Route path="/styles" element={<StyleSelection />} />
           <Route path="/outfits/:styleId" element={<OutfitRecommendations />} />
           <Route path="/stores" element={<StoreDirectory />} />
+          <Route path="/chatbot" element={<ChatBot />} />
         </Routes>
       </Router>
     </ThemeProvider>
   );
 }
 
-export default App; 
+export default App;

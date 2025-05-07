@@ -21,6 +21,10 @@ const Navbar: React.FC = () => {
           <Button color="inherit" component={RouterLink} to="/stores">
             Stores
           </Button>
+          <Button color="inherit" component={RouterLink} to="/chatbot">
+            ChatBot
+          </Button>
+
         </Box>
       </Toolbar>
     </AppBar>
