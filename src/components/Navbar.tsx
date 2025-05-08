@@ -24,7 +24,9 @@ const Navbar: React.FC = () => {
           <Button color="inherit" component={RouterLink} to="/chatbot">
             ChatBot
           </Button>
-
+          <Button color="inherit" component={RouterLink} to="/closet-upload">
+            Closet Upload
+          </Button>
         </Box>
       </Toolbar>
     </AppBar>

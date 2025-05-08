@@ -7,6 +7,8 @@ import StyleSelection from './pages/StyleSelection.tsx';
 import OutfitRecommendations from './pages/OutfitRecommendations.tsx';
 import StoreDirectory from './pages/StoreDirectory.tsx';
 import ChatBot from './pages/Chatbot.tsx'; // Ensure casing matches the file system
+import ClosetUpload from './pages/ClosetUpload.tsx';
+
 
 const theme = createTheme({
   palette: {
@@ -37,6 +39,7 @@ function App() {
           <Route path="/outfits/:styleId" element={<OutfitRecommendations />} />
           <Route path="/stores" element={<StoreDirectory />} />
           <Route path="/chatbot" element={<ChatBot />} />
+          <Route path="/closet-upload" element={<ClosetUpload />} />
         </Routes>
       </Router>
     </ThemeProvider>
