@@ -1,11 +1,14 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App.tsx';  // Fixed the import path for App.tsx
-import './index.css';     // Fixed the import path for index.css
+import { createRoot } from 'react-dom/client';
+import App from './App';
+import './index.css';
 
-ReactDOM.render(
+const container = document.getElementById('root');
+if (!container) throw new Error('Failed to find the root element');
+const root = createRoot(container);
+
+root.render(
   <React.StrictMode>
     <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+  </React.StrictMode>
 );

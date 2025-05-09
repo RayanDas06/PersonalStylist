@@ -1,13 +1,13 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { ThemeProvider, createTheme, CssBaseline } from '@mui/material';
-import Navbar from './components/Navbar.tsx';
-import Home from './pages/Home.tsx';
-import StyleSelection from './pages/StyleSelection.tsx';
-import OutfitRecommendations from './pages/OutfitRecommendations.tsx';
-import StoreDirectory from './pages/StoreDirectory.tsx';
-import ChatBot from './pages/Chatbot.tsx'; // Ensure casing matches the file system
-import ClosetUpload from './pages/ClosetUpload.tsx';
+import Navbar from './components/Navbar';
+import Home from './pages/Home';
+import StyleSelection from './pages/StyleSelection';
+import OutfitRecommendations from './pages/OutfitRecommendations';
+import StoreDirectory from './pages/StoreDirectory';
+import ChatBot from './pages/Chatbot';
+import ClosetUpload from './pages/ClosetUpload';
 
 
 const theme = createTheme({
