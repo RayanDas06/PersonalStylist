@@ -2,7 +2,7 @@
 
   **Tagline:** _"Your vibe. Your fit. Your world—styled in real life."_
 
-  StyleGenie is an AI-powered personal stylist and lifestyle concierge that personalizes fashion, gifting, and aesthetics across both digital and physical spaces. From curating your closet to styling you in-store via smart mirrors, StyleGenie makes looking and feeling good effortless, affordable, and fun.
+  Fitted is an AI-powered personal stylist and lifestyle concierge that personalizes fashion, gifting, and aesthetics across both digital and physical spaces. From curating your closet to styling you in-store via smart mirrors, Fitted makes looking and feeling good effortless, affordable, and fun.
 
   ---
 
